@@ -2,24 +2,38 @@
 
 ![Extermination Protocol](zombie_game/assets/ui/menus/main_menu.png)
 
-**Extermination Protocol** is a top-down zombie shooter game where you fight for survival against relentless waves of the undead. As you blast your way through the hordes, you'll earn experience points (XP) to upgrade your arsenal and become a more formidable zombie slayer.
+**Extermination Protocol** is a top-down zombie shooter focused on fast,
+wave-based survival. You fight off relentless hordes of undead, earn
+experience points, and upgrade your weapons to keep up with the growing
+threat.
 
 [**See Extermination Protocol in Action**](teaser.mp4)
 
-**Core Gameplay:**
-* **Thrilling Top-Down Action:** Navigate the world from a birds-eye view, strategically positioning yourself to take down zombies.
-* **Endless Waves of Zombies:** Test your skills against increasingly challenging waves of the undead.
-* **Upgrade Your Weaponry:** Earn XP to unlock and upgrade a variety of weapons, helping you survive the onslaught.
-* **Experience the Thrill of Survival:** How long can you last? Compete with friends locally or online and perfect your strategies to conquer the endless waves.
+## Core Gameplay
 
-**Components:**
-* **Zombie:** Your primary adversaries, these relentless creatures seek to consume you.
-* **Player:** You, the lone survivor armed with an arsenal of weapons to fight back.
-* **Bullet:** Your weapon's projectile, traveling at high speed to dispatch the zombie menace.
-* **World:** Explore and navigate the world, utilizing terrain and strategy to your advantage.
+-   **Top-Down Combat:** Move and aim from a bird's-eye perspective.
+    Positioning and movement are key to staying alive.
+-   **Endless Waves:** Zombies spawn in increasingly difficult waves,
+    pushing your reflexes and decision-making.
+-   **Weapon Upgrades:** Gain XP by eliminating enemies and use it to
+    unlock and improve your arsenal.
+-   **Survival Challenge:** Last as long as possible and refine your
+    strategy to handle higher waves. Compete locally or online.
+
+## Main Components
+
+-   **Zombie:** The primary enemy. They pursue the player relentlessly
+    and overwhelm through numbers.
+-   **Player:** The survivor controlled by the user, equipped with
+    upgradeable weapons.
+-   **Bullet:** High-speed projectiles fired by the player to eliminate
+    zombies.
+-   **World:** The playable environment, designed to support movement,
+    positioning, and tactical play.
 
 ![Map preview](map.png)
 
-**Stay Tuned!**
+## Development Status
 
-Extermination Protocol is still under development. This README will be updated with further details as development progresses.
+Extermination Protocol is currently in development. This README will be
+updated as new features and improvements are added.
